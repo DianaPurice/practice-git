@@ -1,4 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #111;
+    color: aliceblue;
+}
+footer{
+    background-color: #111;
+    color: aliceblue;
 }
