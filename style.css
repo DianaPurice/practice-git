@@ -19,3 +19,12 @@ footer{
 main {
     padding-top: 15%;
 }
+table, tr, td {
+    margin: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 2px;
+}
+td {
+    width: 200px;
+}
